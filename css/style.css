@@ -29,6 +29,10 @@ body{
     text-decoration: none;
 }
 
+.menu-item{
+    background-color: #FFFFFF;
+}
+
 .menu-link:hover,.menu-link:focus,.contacts-link:hover,.contacts-link:hover{
     color: #404BBF;
   }
