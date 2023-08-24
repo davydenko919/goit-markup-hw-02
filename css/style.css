@@ -81,8 +81,8 @@ addres:focus{
 .hero-button{
     background: var(--iris, #4D5AE5);
     color: var(--white, #FFF);
-
-    font-family: "Roboto", sans-serif
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -92,11 +92,10 @@ addres:focus{
 }
 .hero-button:hover{
     background-color: #404BBF;
-    cursor: pointer;
     color: var(--white, #FFF);
 
     /* Button Text */
-    font-family: "Roboto", sans-serif
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
