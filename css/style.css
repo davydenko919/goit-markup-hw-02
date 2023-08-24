@@ -37,14 +37,9 @@ body{
     list-style-type: none;
 }
 
-address{
+/* address{
     font-style: normal
-}
-
-addres:focus{
-    color: #404BBF;
-}
-
+} */
 
 .contacts-link{
     color: var(--slate, #434455);
@@ -55,6 +50,10 @@ addres:focus{
     line-height: 150%;
     letter-spacing: 0.32px;
     text-decoration: none;
+}
+
+.contacts-link:focus{
+    color: #404bbf;
 }
 
 .contacts-list{
