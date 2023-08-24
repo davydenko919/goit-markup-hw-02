@@ -102,6 +102,11 @@ addres:focus{
     line-height: 150%;
     letter-spacing: 0.64px;
 }
+
+button:hover{
+    background-color: #404BBF
+}
+
 /* section 2 featurs */
 
 .features-item-head{
@@ -186,7 +191,7 @@ background-color: #FFFFFF
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 1.17
+    line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
     text-decoration: none;
