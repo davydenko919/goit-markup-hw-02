@@ -178,6 +178,54 @@ body{
     letter-spacing: 0.32px;
 }
 
+/* section 4 portfolio */
+
+.pottfolio{
+    background: #FFF;
+}
+
+.portfolio-heading{
+    color: var(--navyblue, #2E2F42);
+    text-align: center;
+
+    /* Header 2 */
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+}
+
+.portfolio-list{
+    list-style-type: none;
+}
+
+.portfolio-list-heading{
+    color: var(--navyblue, #2E2F42);
+
+    /* Header 3 */
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+}
+
+.portfolio-list-text{
+    color: var(--slate, #434455);
+
+    /* Body */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}
+
 /* footer */
 .page-footer{
     background: var(--navyblue, #2E2F42);
