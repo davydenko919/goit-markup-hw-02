@@ -164,7 +164,7 @@ addres:focus{
     letter-spacing: 0.4px;
 }
 .team-list{
-background-color: #FFFFFF;
+    background-color: #FFFFFF;
 }
 .team-item-text{
     color: var(--slate, #434455);
