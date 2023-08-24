@@ -90,7 +90,7 @@ addres:focus{
     letter-spacing: 0.64px;
     
 }
-.hero-button:hover{
+.hero-button:hover,.hero-button:focus{
     background-color: #404BBF;
     color: var(--white, #FFF);
 
@@ -101,10 +101,6 @@ addres:focus{
     font-weight: 500;
     line-height: 150%;
     letter-spacing: 0.64px;
-}
-
-button:hover{
-    background-color: #404BBF
 }
 
 /* section 2 featurs */
