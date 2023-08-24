@@ -41,6 +41,10 @@ address{
     font-style: normal
 }
 
+addres:focus{
+    color: #404bbf;
+}
+
 
 .contacts-link{
     color: var(--slate, #434455);
