@@ -182,11 +182,11 @@ background-color: #FFFFFF
 
 .footer-link{
     color: var(--iris, #4D5AE5);
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 116.667%;
+    line-height: 1.17
     letter-spacing: 0.54px;
     text-transform: uppercase;
     text-decoration: none;
