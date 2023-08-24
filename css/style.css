@@ -37,9 +37,9 @@ body{
     list-style-type: none;
 }
 
-/* address{
-    font-style: normal
-} */
+.contacts{
+    font-style: normal;
+}
 
 .contacts-link{
     color: var(--slate, #434455);
