@@ -29,17 +29,18 @@ body{
     text-decoration: none;
 }
 
-.menu-link:hover,.menu-link:focus,.contacts-link{
+.menu-link:hover,.menu-link:focus,.contacts-link:hover{
     color: #404bbf;
   }
 
-.menu-list,.features-list,.team-list,.contacts-link{
+.menu-list,.features-list,.team-list,.contacts-link:hover{
     list-style-type: none;
 }
 
 address{
     font-style: normal
 }
+
 
 .contacts-link{
     color: var(--slate, #434455);
