@@ -29,9 +29,9 @@ body{
     text-decoration: none;
 }
 
-.menu-item,.menu-link,.menu-list,.contacts-link,.contacts-item,.contacts-link{
+/* .menu-item,.menu-link,.menu-list,.contacts-link,.contacts-item,.contacts-link{
     background-color: #FFFFFF;
-}
+} */
 
 .menu-link:hover,.menu-link:focus,.contacts-link:hover,.contacts-link:hover{
     color: #404BBF;
