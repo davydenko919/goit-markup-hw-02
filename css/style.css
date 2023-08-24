@@ -29,11 +29,11 @@ body{
     text-decoration: none;
 }
 
-.menu-link:hover,.menu-link:focus,.contacts-link:hover{
+.menu-link:hover,.menu-link:focus,.contacts-link:hover,.contacts-link:hover{
     color: #404bbf;
   }
 
-.menu-list,.features-list,.team-list,.contacts-link:hover{
+.menu-list,.features-list,.team-list{
     list-style-type: none;
 }
 
@@ -60,7 +60,7 @@ address{
 
 /* section 1 hero */
 .hero{
-    background-color: var(--slate, #434455);
+    background-color:#2e2f42;
 }
 
 .hero-text{
@@ -78,20 +78,21 @@ address{
     background: var(--iris, #4D5AE5);
     color: var(--white, #FFF);
 
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
     line-height: 150%;
     letter-spacing: 0.64px;
+    
 }
 .hero-button:hover{
-    background: var(--ocean, #404BBF);
-
+    background-color: #404BBF;
+    cursor: pointer;
     color: var(--white, #FFF);
 
     /* Button Text */
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
