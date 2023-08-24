@@ -30,7 +30,7 @@ body{
 }
 
 .menu-link:hover,.menu-link:focus,.contacts-link:hover,.contacts-link:hover{
-    color: #404bbf;
+    color: #404BBF;
   }
 
 .menu-list,.features-list,.team-list{
@@ -42,7 +42,7 @@ address{
 }
 
 addres:focus{
-    color: #404bbf;
+    color: #404BBF;
 }
 
 
