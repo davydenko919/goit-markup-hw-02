@@ -102,6 +102,9 @@ addres:focus{
     line-height: 150%;
     letter-spacing: 0.64px;
 }
+.hero-button:focus{
+    background-color: #404BBF;
+}
 
 /* section 2 featurs */
 
