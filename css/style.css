@@ -129,6 +129,10 @@ addres:focus{
 }
 /* section 3 team */
 
+.team{
+    background-color: #F4F4FD;
+}
+
 .team-heading{
     color: var(--navyblue, #2E2F42);
     text-align: center;
@@ -138,7 +142,7 @@ addres:focus{
     font-size: 36px;
     font-style: normal;
     font-weight: 700;
-    line-height: 40px; /* 111.111% */
+    line-height: 1.11;
     letter-spacing: 0.72px;
     text-transform: capitalize;
 }
@@ -155,7 +159,9 @@ addres:focus{
     line-height: 24px; /* 120% */
     letter-spacing: 0.4px;
 }
-
+.team-list{
+background-color: #FFFFFF
+}
 .team-item-text{
     color: var(--slate, #434455);
     text-align: center;
