@@ -29,7 +29,7 @@ body{
     text-decoration: none;
 }
 
-.menu-item{
+.menu-item,.menu-link,.menu-list{
     background-color: #FFFFFF;
 }
 
