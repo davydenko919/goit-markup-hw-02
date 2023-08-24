@@ -29,8 +29,16 @@ body{
     text-decoration: none;
 }
 
-.menu-list,.features-list,.team-list{
+.menu-link:hover,.menu-link:focus,.contacts-link{
+    color: #404bbf;
+  }
+
+.menu-list,.features-list,.team-list,.contacts-link{
     list-style-type: none;
+}
+
+address{
+    font-style: normal
 }
 
 .contacts-link{
